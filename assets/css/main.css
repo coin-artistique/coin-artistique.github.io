@@ -27,18 +27,8 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 25px;
     padding-left: 1%;
     padding-right: 1%;
-}
-
-.logo {
-    color: whitesmoke;
-    font-size: 28px;
-}
-
-span {
-    color: green;
 }
 
 nav ul li {
@@ -48,14 +38,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #0cb30c;
+    color: whitec;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav ul li a:hover {
-    color: #57F287;
-    text-decoration: overline;
+    color: white;
+    text-decoration: underline;
     transition: 200ms;
 }
 
