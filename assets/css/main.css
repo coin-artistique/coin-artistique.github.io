@@ -54,7 +54,7 @@ nav img {
 }
 
 img.banner {
-    filter: blur(4px);
+    filter: blur(1px);
 }
 
 div.text-zone {
