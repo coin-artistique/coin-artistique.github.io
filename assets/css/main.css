@@ -52,3 +52,23 @@ nav ul li a:hover {
 nav img {
     border-radius: 60px;
 }
+
+img.banner {
+    filter: blur(4px);
+}
+
+div.text-zone {
+    padding-top: 2%;
+    margin-left: 14%;
+    margin-right: 14%;
+    border-radius: 50px;
+}
+
+p.text-brut {
+    padding-left: 10px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    background-color: #373739;
+}
